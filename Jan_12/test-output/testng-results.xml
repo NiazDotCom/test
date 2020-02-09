@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9399" started-at="2020-01-12T17:16:21Z" finished-at="2020-01-12T17:16:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9399" started-at="2020-01-12T17:16:21Z" finished-at="2020-01-12T17:16:31Z">
+      <class name="TestNG_Website">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:TestNG_Website@457e2f02]" name="OpenBrowser" is-config="true" duration-ms="9271" started-at="2020-01-12T17:16:21Z" finished-at="2020-01-12T17:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="ChangeDOB()[pri:0, instance:TestNG_Website@457e2f02]" name="ChangeDOB" duration-ms="9" started-at="2020-01-12T17:16:30Z" finished-at="2020-01-12T17:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeDOB -->
+        <test-method status="PASS" signature="ChangeSchool()[pri:0, instance:TestNG_Website@457e2f02]" name="ChangeSchool" duration-ms="3" started-at="2020-01-12T17:16:30Z" finished-at="2020-01-12T17:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeSchool -->
+        <test-method status="PASS" signature="SendEmail()[pri:0, instance:TestNG_Website@457e2f02]" name="SendEmail" duration-ms="3" started-at="2020-01-12T17:16:30Z" finished-at="2020-01-12T17:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendEmail -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:TestNG_Website@457e2f02]" name="SignIn" duration-ms="3" started-at="2020-01-12T17:16:30Z" finished-at="2020-01-12T17:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="SignOut()[pri:0, instance:TestNG_Website@457e2f02]" name="SignOut" duration-ms="22" started-at="2020-01-12T17:16:30Z" finished-at="2020-01-12T17:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOut -->
+        <test-method status="PASS" signature="SignUp()[pri:0, instance:TestNG_Website@457e2f02]" name="SignUp" duration-ms="5" started-at="2020-01-12T17:16:31Z" description="This test is mandatory" finished-at="2020-01-12T17:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestNG_Website@457e2f02]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2020-01-12T17:16:31Z" finished-at="2020-01-12T17:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestNG_Website -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
